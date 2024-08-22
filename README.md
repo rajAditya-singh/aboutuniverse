@@ -1,2 +1,2 @@
 # aboutuniverse
-aboutuniverse.netlify.app
+**LINK** - https://aboutuniverse.vercel.app/
